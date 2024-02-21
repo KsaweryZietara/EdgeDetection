@@ -61,14 +61,15 @@ movupd [rdi + rax], xmm0   	; Store the contents of xmm0 into the memory address
 ```
 
 # User interface
-User interface before image processing:
-![]()
+### User interface before image processing:
 
-User interface after image processing:
-![]()
+![](https://github.com/KsaweryZietara/EdgeDetection/blob/main/Resources/UIBeforeProcessing.png)
+
+### User interface after image processing:
+![](https://github.com/KsaweryZietara/EdgeDetection/blob/main/Resources/UIAfterProcessing.png)
 
 # Performance report
-![]()
+![](https://github.com/KsaweryZietara/EdgeDetection/blob/main/Resources/PerformanceReport.png)
 
 # Conclusions
 The implemented algorithm using the Laplace filter LAPL1 effectively detects edges in an image, featuring omnidirectionality. Input parameters, such as the choice of color or 
