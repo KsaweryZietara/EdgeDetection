@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  EdgeDetectionCpp.cpp
+C:\Users\User\Downloads\EdgeDetection\EdgeDetectionCpp\EdgeDetectionCpp.cpp(6,95): warning C4273: "fibonacci_init": niespójne powiązanie biblioteki dll
+C:\Users\User\Downloads\EdgeDetection\EdgeDetectionCpp\EdgeDetectionCpp.h(10,33): message : zobacz poprzednią definicję „fibonacci_init”
+C:\Users\User\Downloads\EdgeDetection\EdgeDetectionCpp\EdgeDetectionCpp.cpp(9,24): warning C4309: "=": obcięcie stałej wartości
+  Generowanie kodu...
+     Trwa tworzenie biblioteki C:\Users\User\Downloads\EdgeDetection\Debug\EdgeDetectionCpp.lib i obiektu C:\Users\User\Downloads\EdgeDetection\Debug\EdgeDetectionCpp.exp
+  EdgeDetectionCpp.vcxproj -> C:\Users\User\Downloads\EdgeDetection\Debug\EdgeDetectionCpp.dll

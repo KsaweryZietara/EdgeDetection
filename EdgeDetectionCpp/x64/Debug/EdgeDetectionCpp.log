@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  EdgeDetectionCpp.cpp
+C:\Users\User\Downloads\EdgeDetection\EdgeDetectionCpp\EdgeDetectionCpp.cpp(6,94): warning C4273: "edgeDetection": niespójne powiązanie biblioteki dll
+C:\Users\User\Downloads\EdgeDetection\EdgeDetectionCpp\EdgeDetectionCpp.h(9,33): message : zobacz poprzednią definicję „edgeDetection”
+  Generowanie kodu...
+     Trwa tworzenie biblioteki C:\Users\User\Downloads\EdgeDetection\x64\Debug\EdgeDetectionCpp.lib i obiektu C:\Users\User\Downloads\EdgeDetection\x64\Debug\EdgeDetectionCpp.exp
+  EdgeDetectionCpp.vcxproj -> C:\Users\User\Downloads\EdgeDetection\x64\Debug\EdgeDetectionCpp.dll

@@ -1,0 +1,2 @@
+﻿LINK : error LNK2001: nierozpoznany symbol zewnętrzny mainCRTStartup
+C:\Users\User\Downloads\EdgeDetection\x64\Release\EdgeDetectionAsm.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1

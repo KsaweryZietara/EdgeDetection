@@ -1,0 +1,4 @@
+﻿  Assembling EdgeDetectionAsm.asm...
+     Trwa tworzenie biblioteki C:\Users\User\Downloads\EdgeDetection\x64\Debug\EdgeDetectionAsm.lib i obiektu C:\Users\User\Downloads\EdgeDetection\x64\Debug\EdgeDetectionAsm.exp
+EdgeDetectionAsm.exp : warning LNK4070: /OUT: dyrektywa Asm.dll w pliku .EXP jest inna niż nazwa pliku wyjściowego "C:\Users\User\Downloads\EdgeDetection\x64\Debug\EdgeDetectionAsm.dll"; dyrektywa została zignorowana
+  EdgeDetectionAsm.vcxproj -> C:\Users\User\Downloads\EdgeDetection\x64\Debug\EdgeDetectionAsm.dll

@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+  EdgeDetectionCpp.cpp
+C:\Users\User\Downloads\EdgeDetection\EdgeDetectionCpp\EdgeDetectionCpp.cpp(6,94): warning C4273: "edgeDetection": niespójne powiązanie biblioteki dll
+C:\Users\User\Downloads\EdgeDetection\EdgeDetectionCpp\EdgeDetectionCpp.h(9,33): message : zobacz poprzednią definicję „edgeDetection”
+     Trwa tworzenie biblioteki C:\Users\User\Downloads\EdgeDetection\x64\Release\EdgeDetectionCpp.lib i obiektu C:\Users\User\Downloads\EdgeDetection\x64\Release\EdgeDetectionCpp.exp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  EdgeDetectionCpp.vcxproj -> C:\Users\User\Downloads\EdgeDetection\x64\Release\EdgeDetectionCpp.dll
